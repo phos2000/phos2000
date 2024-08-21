@@ -42,5 +42,6 @@ I created a tool to [explore distributions interactively](http://yuhanxuan.shiny
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanxuan-yu)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/hanxuan_yu)
 
 ---
