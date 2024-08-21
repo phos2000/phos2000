@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**phos2000/phos2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Astrid Yu, a G1 student at Harvard University studying Health Policy Decision Sciences. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me 🧑‍💻
+
+- 🎓 B.S. in Psychology, Beijing Normal University (2021)
+- 🎓 M.Ed. in Quantitative Methods, Vanderbilt University (2022)
+- 🏢 Former research analyst at Vanderbilt Health Policy, working under Dr. Ashley Leech, Dr. Jinyi Zhu, and Dr. John Graves
+- 🎓 Currently studying Health Policy Decision Sciences at Harvard, supervised by Dr. Zachary Ward and Dr. Ankur Pandya
+- 🌍 Based in Cambridge, MA
+- 👩 Pronouns: she/her/hers
+
+---
+
+## Interests 🌟
+
+- 📽️ Movies (Harvard Film Archive)
+- 🥾 Hiking
+- 🎮 Gaming (Riichi mahjong, Switch, Steam)
+
+---
+
+## 🛠️ Technologies & Tools
+
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white)
+
+---
+
+## 🌐 Check Out My Tool
+
+I created a tool to [explore distributions interactively](http://yuhanxuan.shinyapps.io/shiny4dist). Feel free to check it out!
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanxuan-yu)
+
+---
