@@ -39,6 +39,12 @@ I created a tool to [explore distributions interactively](http://yuhanxuan.shiny
 
 ---
 
+## 📈 GitHub Stats
+
+![Astrid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=phos2000&show_icons=true&theme=radical)
+
+---
+
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanxuan-yu)
