@@ -11,7 +11,7 @@ I'm Hanxuan (Astrid) Yu, a G1 student at Harvard University studying Health Poli
 - 🏢 Former research analyst at Vanderbilt Health Policy, working under Dr. Ashley Leech, Dr. Jinyi Zhu, and Dr. John Graves
 - 🎓 Currently studying Health Policy Decision Sciences at Harvard, supervised by Dr. Zachary Ward and Dr. Ankur Pandya
 - 🌍 Based in Cambridge, MA
-- 👩 Pronouns: she/her/hers
+- 👩 Pronouns: she/they
 
 ---
 
