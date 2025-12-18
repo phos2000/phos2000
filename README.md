@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Hanxuan (Astrid) Yu, a G1 student at Harvard University studying Health Policy Decision Sciences. 
+I'm Hanxuan (Astrid) Yu, a G2 student at Harvard University studying Health Policy Decision Sciences. 
 
 ---
 
